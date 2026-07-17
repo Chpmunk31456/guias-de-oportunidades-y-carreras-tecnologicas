@@ -29,7 +29,7 @@ Muchas personas tienen la capacidad de generar un cambio positivo en el mundo, p
 
 Este proyecto existe para ayudar al menos a una persona a utilizar la tecnología para mejorar el mundo y motivarla a ayudar a otra persona.
 
-> **Ayuda a una persona. Comparte una oportunidad verificada. Enseña una habilidad útil. Deja el camino más claro de como lo encontraste.**
+> **Ayuda a una persona. Comparte una oportunidad verificada. Enseña una habilidad útil. Deja el camino más claro de cómo lo encontraste.**
 
 ---
 
@@ -95,7 +95,7 @@ Se incluirán recursos como:
 - Preparación para currículum e entrevistas
 - Uso responsable de inteligencia artificial
 
-### 3. Guías de carreras tecnológicas
+### 3. [Guías de carreras tecnológicas](03-guias-de-carrera/README.md)
 
 La colección incluirá orientación sobre carreras relacionadas con:
 
@@ -437,20 +437,17 @@ Toda información importante debe verificarse mediante fuentes oficiales y profe
 
 ## Estado del proyecto
 
-La edición en español está en desarrollo.
+La primera colección de carreras en español está disponible:
 
-Los siguientes recursos se añadirán de manera progresiva:
+- [Guía para elegir una carrera tecnológica](03-guias-de-carrera/elige-tu-carrera-tecnologica.md)
+- [Las 50 carreras tecnológicas del futuro](03-guias-de-carrera/las-50-carreras-tecnologicas-del-futuro.md)
+- [50 guías individuales de carrera](03-guias-de-carrera/README.md)
+- Recursos educativos gratuitos y herramientas de código abierto dentro de cada guía
+- Proyectos de portafolio y orientación para GitHub
+- Planes de aprendizaje de 30, 60 y 90 días
+- Accesibilidad, adaptaciones y seguridad humana
 
-- Guía de oportunidades tecnológicas globales
-- Guía de selección de carrera
-- Las 50 carreras tecnológicas del futuro
-- Guías individuales de carrera
-- Cursos gratuitos
-- Recursos de inglés
-- Herramientas gratuitas
-- Planes de 30, 60 y 90 días
-- Ediciones en Word
-- Ediciones en PDF
+Las guías de oportunidades, los recursos adicionales de inglés y otros materiales continuarán ampliándose progresivamente.
 
 ---
 
