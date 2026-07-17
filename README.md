@@ -7,10 +7,10 @@ Este proyecto reúne orientación sobre:
 - Empleo
 - Prácticas profesionales
 - Pasantías
-- Aprendizajes laborales
-- Becas y fellowships
+- Programas de aprendizaje laboral
+- Becas y *fellowships*
 - Programas de mentoría
-- Programas para recién graduados
+- Programas para personas recién graduadas
 - Programas de reintegración laboral
 - Educación tecnológica gratuita
 - Guías de carreras tecnológicas
@@ -51,13 +51,13 @@ Este proyecto puede ser útil para:
 - Personas que necesitan mejorar su inglés
 - Mentores, docentes y organizaciones comunitarias
 
-No es necesario tener un título universitario, experiencia previa o inglés perfecto para comenzar.
+No es necesario tener un título universitario, experiencia previa o un dominio perfecto del inglés para comenzar.
 
 ---
 
 ## Comienza aquí
 
-El proyecto se desarrollará en cuatro áreas principales.
+El proyecto se desarrolla en cuatro áreas principales.
 
 ### 1. Oportunidades tecnológicas globales
 
@@ -66,12 +66,12 @@ Recursos para encontrar y evaluar:
 - Empleo
 - Pasantías
 - Prácticas profesionales
-- Aprendizajes laborales
-- Fellowships
+- Programas de aprendizaje laboral
+- *Fellowships*
 - Becas
 - Mentorías
-- Traineeships
-- Programas para recién graduados
+- Programas de formación laboral
+- Programas para personas recién graduadas
 - Programas de retorno al trabajo
 - Oportunidades remotas
 - Oportunidades accesibles e inclusivas
@@ -84,7 +84,7 @@ Se incluirán recursos como:
 
 - Cursos completamente gratuitos
 - Cursos gratuitos para auditar
-- Certificados gratuitos cuando estén disponibles
+- Certificados gratuitos, cuando estén disponibles
 - Certificados de pago opcional
 - Laboratorios prácticos
 - Herramientas de código abierto
@@ -92,12 +92,12 @@ Se incluirán recursos como:
 - Documentación oficial
 - Proyectos de portafolio
 - Orientación para GitHub
-- Preparación para currículum e entrevistas
-- Uso responsable de inteligencia artificial
+- Preparación de currículum y entrevistas
+- Uso responsable de la inteligencia artificial
 
 ### 3. [Guías de carreras tecnológicas](03-guias-de-carrera/README.md)
 
-La colección incluirá orientación sobre carreras relacionadas con:
+La colección incluye orientación sobre carreras relacionadas con:
 
 - Inteligencia artificial
 - Ciberseguridad
@@ -115,7 +115,7 @@ La colección incluirá orientación sobre carreras relacionadas con:
 - Tecnología de asistencia
 - Tecnología centrada en la persona
 
-Cada guía podrá incluir:
+Cada guía puede incluir:
 
 - Descripción de la carrera
 - Responsabilidades comunes
@@ -137,7 +137,7 @@ Cada guía podrá incluir:
 
 Gran parte de la documentación técnica, las certificaciones, las herramientas y las oportunidades internacionales utiliza el inglés.
 
-El proyecto incluirá recursos gratuitos y accesibles globalmente para desarrollar:
+El proyecto incluye recursos gratuitos y accesibles globalmente para desarrollar:
 
 - Inglés básico
 - Comprensión auditiva
@@ -157,7 +157,7 @@ El inglés no determina la inteligencia ni el potencial de una persona. El objet
 
 ---
 
-## Plataformas gratuitas de inglés
+## Plataformas gratuitas para aprender inglés
 
 Las siguientes plataformas ofrecen materiales gratuitos en línea. Algunas funciones, certificados o servicios adicionales pueden tener costo.
 
@@ -210,7 +210,7 @@ Este proyecto no avergüenza a nadie por:
 - Estar desempleado
 - Tener una discapacidad
 - Tener una edad avanzada
-- No tener título universitario
+- No tener un título universitario
 - Tener interrupciones laborales
 - Haber sido rechazado
 - Tener dificultades económicas
@@ -236,7 +236,7 @@ Nos comprometemos a:
 - Reconocer cuándo la orientación profesional debe detenerse
 - Dar prioridad al apoyo humano cuando exista riesgo
 
-### No al gatekeeping
+### No a las barreras de acceso
 
 Este proyecto no apoya:
 
@@ -314,7 +314,7 @@ Los documentos deberán utilizar, cuando sea posible:
 
 ## Prevención de estafas laborales
 
-Nunca se debe pagar por recibir una oferta de empleo legítima.
+Nunca se debe pagar para recibir una oferta de empleo legítima.
 
 Señales de alerta frecuentes:
 
@@ -336,7 +336,7 @@ Antes de responder, se debe verificar:
 - El dominio del correo
 - El perfil del reclutador
 - La existencia de la vacante
-- La ubicación y elegibilidad
+- La ubicación y la elegibilidad
 - El tipo de contrato
 - La forma de pago
 - La política de privacidad
@@ -381,7 +381,7 @@ Son bienvenidas las contribuciones de:
 - Organizaciones sin fines de lucro
 - Especialistas en accesibilidad
 - Comunidades de código abierto
-- Exparticipantes de programas
+- Antiguos participantes de programas
 
 Las contribuciones pueden incluir:
 
@@ -437,7 +437,7 @@ Toda información importante debe verificarse mediante fuentes oficiales y profe
 
 ## Estado del proyecto
 
-La primera colección de carreras en español está disponible:
+La primera colección de carreras en español ya está disponible:
 
 - [Guía para elegir una carrera tecnológica](03-guias-de-carrera/elige-tu-carrera-tecnologica.md)
 - [Las 50 carreras tecnológicas del futuro](03-guias-de-carrera/las-50-carreras-tecnologicas-del-futuro.md)
@@ -455,7 +455,7 @@ Las guías de oportunidades, los recursos adicionales de inglés y otros materia
 
 **Alberto (Al) Leiva**
 
-Este proyecto refleja un compromiso con la tecnología, la educación, la accesibilidad, la rehabilitación, la ciberseguridad, la mentoría y la creación de oportunidades para personas que pueden no haber tenido acceso a un camino claro.
+Este proyecto refleja un compromiso con la tecnología, la educación, la accesibilidad, la rehabilitación, la ciberseguridad, la mentoría y la creación de oportunidades para personas que quizá no hayan tenido acceso a un camino claro.
 
 ---
 
