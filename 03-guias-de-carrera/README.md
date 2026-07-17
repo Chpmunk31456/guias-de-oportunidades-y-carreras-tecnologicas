@@ -1,6 +1,6 @@
 # Guías de Carreras Tecnológicas
 
-Recursos gratuitos y prácticos en español para ayudar a las personas a explorar, prepararse y comenzar una carrera en tecnología.
+Recursos gratuitos y prácticos en español para ayudar a las personas a explorar, preparar y comenzar una carrera en tecnología.
 
 Esta sección forma parte del proyecto **Guías de Oportunidades y Carreras Tecnológicas**.
 
