@@ -13,6 +13,73 @@ La versión 1.0 contiene **50 guías de carreras tecnológicas en español**, or
 
 No se promete empleo, salario, admisión, certificación ni un resultado profesional específico. Los requisitos, precios, herramientas y enlaces pueden cambiar; verifique siempre la información importante en fuentes oficiales.
 
+## Enlaces directos a las 50 guías
+
+### Inteligencia artificial
+
+1. [Ingeniero/a de Inteligencia Artificial](03-guias-de-carrera/inteligencia-artificial/ingeniero-de-inteligencia-artificial.md)
+2. [Ingeniero/a de Aprendizaje Automático](03-guias-de-carrera/inteligencia-artificial/ingeniero-de-aprendizaje-automatico.md)
+3. [Ingeniero/a de IA Generativa](03-guias-de-carrera/inteligencia-artificial/ingeniero-de-ia-generativa.md)
+4. [Desarrollador/a de Agentes de IA](03-guias-de-carrera/inteligencia-artificial/desarrollador-de-agentes-de-ia.md)
+5. [Arquitecto/a de Soluciones de IA](03-guias-de-carrera/inteligencia-artificial/arquitecto-de-soluciones-de-ia.md)
+6. [Ingeniero/a de Seguridad de IA](03-guias-de-carrera/inteligencia-artificial/ingeniero-de-seguridad-de-ia.md)
+7. [Especialista en Gobierno de IA](03-guias-de-carrera/inteligencia-artificial/especialista-en-gobierno-de-ia.md)
+8. [Especialista en IA Responsable y Ética](03-guias-de-carrera/inteligencia-artificial/especialista-en-ia-responsable-y-etica.md)
+9. [Analista de Riesgos y Cumplimiento de IA](03-guias-de-carrera/inteligencia-artificial/analista-de-riesgos-y-cumplimiento-de-ia.md)
+10. [Gerente de Producto de IA](03-guias-de-carrera/inteligencia-artificial/gerente-de-producto-de-ia.md)
+11. [Consultor/a de Adopción de IA](03-guias-de-carrera/inteligencia-artificial/consultor-de-adopcion-de-ia.md)
+12. [Ingeniero/a de Visión por Computadora](03-guias-de-carrera/inteligencia-artificial/ingeniero-de-vision-por-computadora.md)
+13. [Ingeniero/a de Procesamiento del Lenguaje Natural](03-guias-de-carrera/inteligencia-artificial/ingeniero-de-procesamiento-del-lenguaje-natural.md)
+
+### Ciberseguridad
+
+14. [Analista de Ciberseguridad](03-guias-de-carrera/ciberseguridad/analista-de-ciberseguridad.md)
+15. [Ingeniero/a de Seguridad en la Nube](03-guias-de-carrera/ciberseguridad/ingeniero-de-seguridad-en-la-nube.md)
+16. [Arquitecto/a de Seguridad](03-guias-de-carrera/ciberseguridad/arquitecto-de-seguridad.md)
+17. [Ingeniero/a de Gestión de Identidades y Accesos](03-guias-de-carrera/ciberseguridad/ingeniero-de-identidades-y-accesos.md)
+18. [Ingeniero/a de Seguridad de Aplicaciones](03-guias-de-carrera/ciberseguridad/ingeniero-de-seguridad-de-aplicaciones.md)
+19. [Ingeniero/a DevSecOps](03-guias-de-carrera/ciberseguridad/ingeniero-devsecops.md)
+20. [Ingeniero/a de Detección de Amenazas](03-guias-de-carrera/ciberseguridad/ingeniero-de-deteccion-de-amenazas.md)
+21. [Especialista en Forense Digital y Respuesta a Incidentes](03-guias-de-carrera/ciberseguridad/especialista-forense-digital-y-respuesta-a-incidentes.md)
+22. [Especialista en Ciberseguridad OT/ICS](03-guias-de-carrera/ciberseguridad/especialista-en-ciberseguridad-ot-ics.md)
+23. [Analista de Gobierno, Riesgo y Cumplimiento de Ciberseguridad](03-guias-de-carrera/ciberseguridad/analista-grc-de-ciberseguridad.md)
+24. [Ingeniero/a de Privacidad](03-guias-de-carrera/ciberseguridad/ingeniero-de-privacidad.md)
+25. [Especialista en Criptografía Poscuántica](03-guias-de-carrera/ciberseguridad/especialista-en-criptografia-poscuantica.md)
+26. [Ingeniero/a de Seguridad de la Cadena de Suministro de Software](03-guias-de-carrera/ciberseguridad/ingeniero-de-seguridad-de-cadena-de-suministro-de-software.md)
+27. [CISO Fraccional o Virtual](03-guias-de-carrera/ciberseguridad/ciso-fraccional-o-virtual.md)
+
+### Datos, nube y software
+
+28. [Ingeniero/a de Datos](03-guias-de-carrera/datos-nube-software/ingeniero-de-datos.md)
+29. [Científico/a de Datos](03-guias-de-carrera/datos-nube-software/cientifico-de-datos.md)
+30. [Ingeniero/a de Analítica](03-guias-de-carrera/datos-nube-software/ingeniero-de-analitica.md)
+31. [Especialista en Gobierno de Datos](03-guias-de-carrera/datos-nube-software/especialista-en-gobierno-de-datos.md)
+32. [Arquitecto/a de Nube](03-guias-de-carrera/datos-nube-software/arquitecto-de-nube.md)
+33. [Ingeniero/a de Plataformas](03-guias-de-carrera/datos-nube-software/ingeniero-de-plataformas.md)
+34. [Ingeniero/a de Confiabilidad de Sitios](03-guias-de-carrera/datos-nube-software/ingeniero-de-confiabilidad-de-sitios.md)
+35. [Ingeniero/a MLOps](03-guias-de-carrera/datos-nube-software/ingeniero-mlops.md)
+36. [Especialista FinOps](03-guias-de-carrera/datos-nube-software/especialista-finops.md)
+37. [Ingeniero/a de APIs e Integración](03-guias-de-carrera/datos-nube-software/ingeniero-de-apis-e-integracion.md)
+38. [Ingeniero/a de Software Full Stack](03-guias-de-carrera/datos-nube-software/ingeniero-de-software-full-stack.md)
+
+### Robótica y tecnologías emergentes
+
+39. [Ingeniero/a de Robótica](03-guias-de-carrera/robotica-tecnologias-emergentes/ingeniero-de-robotica.md)
+40. [Ingeniero/a de Sistemas Autónomos](03-guias-de-carrera/robotica-tecnologias-emergentes/ingeniero-de-sistemas-autonomos.md)
+41. [Ingeniero/a de Internet de las Cosas](03-guias-de-carrera/robotica-tecnologias-emergentes/ingeniero-de-internet-de-las-cosas.md)
+42. [Ingeniero/a de Computación en el Borde](03-guias-de-carrera/robotica-tecnologias-emergentes/ingeniero-de-computacion-en-el-borde.md)
+43. [Ingeniero/a de Gemelos Digitales](03-guias-de-carrera/robotica-tecnologias-emergentes/ingeniero-de-gemelos-digitales.md)
+44. [Técnico/a o Ingeniero/a de Infraestructura de Centros de Datos](03-guias-de-carrera/robotica-tecnologias-emergentes/tecnico-o-ingeniero-de-centros-de-datos.md)
+45. [Ingeniero/a de Software para Computación Cuántica](03-guias-de-carrera/robotica-tecnologias-emergentes/ingeniero-de-software-cuantico.md)
+46. [Especialista en Tecnología de Energía Limpia y Redes Inteligentes](03-guias-de-carrera/robotica-tecnologias-emergentes/especialista-en-energia-limpia-y-redes-inteligentes.md)
+
+### Accesibilidad y tecnología humana
+
+47. [Ingeniero/a de Accesibilidad](03-guias-de-carrera/accesibilidad-tecnologia-humana/ingeniero-de-accesibilidad.md)
+48. [Especialista en Tecnología de Asistencia](03-guias-de-carrera/accesibilidad-tecnologia-humana/especialista-en-tecnologia-de-asistencia.md)
+49. [Consultor/a de Tecnología de Rehabilitación](03-guias-de-carrera/accesibilidad-tecnologia-humana/consultor-de-tecnologia-de-rehabilitacion.md)
+50. [Investigador/a de Experiencia de Usuario Inclusiva](03-guias-de-carrera/accesibilidad-tecnologia-humana/investigador-de-ux-inclusiva.md)
+
 Este proyecto reúne orientación sobre:
 
 - Empleo
