@@ -2,6 +2,17 @@
 
 Recursos gratuitos y prácticos en español para ayudar a las personas a avanzar desde el aprendizaje hasta una oportunidad real.
 
+## Estado actual
+
+La versión 1.0 contiene **50 guías de carreras tecnológicas en español**, organizadas en cinco áreas. La colección de carreras está completa; las demás áreas descritas en esta página representan líneas de trabajo que podrán ampliarse con el tiempo.
+
+- [Comenzar: cómo elegir una carrera tecnológica](03-guias-de-carrera/elige-tu-carrera-tecnologica.md)
+- [Consultar el catálogo de 50 carreras](03-guias-de-carrera/las-50-carreras-tecnologicas-del-futuro.md)
+- [Explorar las guías por área](03-guias-de-carrera/README.md)
+- [Revisar el estado y los límites conocidos](PROJECT_STATUS.md)
+
+No se promete empleo, salario, admisión, certificación ni un resultado profesional específico. Los requisitos, precios, herramientas y enlaces pueden cambiar; verifique siempre la información importante en fuentes oficiales.
+
 Este proyecto reúne orientación sobre:
 
 - Empleo
@@ -413,6 +424,8 @@ Al compartir una oportunidad, incluya:
 
 No incluya información confidencial, datos personales sensibles ni contenido protegido sin autorización.
 
+Consulte [CONTRIBUTING.md](CONTRIBUTING.md) para enviar una corrección o propuesta de forma clara y verificable.
+
 ---
 
 ## Aviso importante
@@ -457,6 +470,8 @@ Las guías de oportunidades, los recursos adicionales de inglés y otros materia
 
 Este proyecto refleja un compromiso con la tecnología, la educación, la accesibilidad, la rehabilitación, la ciberseguridad, la mentoría y la creación de oportunidades para personas que quizá no hayan tenido acceso a un camino claro.
 
+Alberto “Al” Leiva inició este trabajo a los 70 años. Su experiencia con disgrafía y dentro del espectro autista ayudó a orientar el enfoque de accesibilidad. ChatGPT colaboró bajo su dirección; Al revisa el proyecto y conserva la responsabilidad editorial.
+
 ---
 
 ## Licencia
@@ -466,3 +481,5 @@ Este proyecto utiliza la licencia **Creative Commons Atribución-NoComercial-Com
 Esto permite compartir y adaptar el contenido para fines no comerciales, siempre que se reconozca la autoría y las obras derivadas se distribuyan bajo la misma licencia.
 
 Copyright © 2026 Alberto (Al) Leiva
+
+Documentos del proyecto: [Accesibilidad](ACCESSIBILITY.md) · [Contribuciones](CONTRIBUTING.md) · [Gobernanza y revisión](GOVERNANCE.md) · [Estado](PROJECT_STATUS.md)

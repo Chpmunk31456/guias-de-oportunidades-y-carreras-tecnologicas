@@ -45,7 +45,7 @@ Use voltajes bajos, equipos apropiados y protección personal cuando corresponda
 
 ## Recursos gratuitos
 
-- [ROS 2 Documentation](https://docs.ros.org/en/rolling/) — material gratuito; el hardware, evaluaciones o certificados pueden tener costo.
+- [ROS 2 Documentation](https://docs.ros.org/en/rolling/index.html) — material gratuito; el hardware, evaluaciones o certificados pueden tener costo.
 - [Arduino Documentation](https://docs.arduino.cc/) — material gratuito; el hardware, evaluaciones o certificados pueden tener costo.
 - [MIT OpenCourseWare](https://ocw.mit.edu/) — material gratuito; el hardware, evaluaciones o certificados pueden tener costo.
 - [IBM Quantum Learning](https://quantum.cloud.ibm.com/learning) — material gratuito; el hardware, evaluaciones o certificados pueden tener costo.
