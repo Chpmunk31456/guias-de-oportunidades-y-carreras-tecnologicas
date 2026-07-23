@@ -16,9 +16,9 @@ Esta sección forma parte del proyecto **Guías de Oportunidades y Carreras Tecn
 
 ## Explora las 50 guías por área
 
-### Accesibilidad y tecnología centrada en la persona
+### Accesibilidad y tecnología centrada en la persona — 4 guías
 
-- [Abrir la carpeta de accesibilidad y tecnología humana](accesibilidad-tecnologia-humana/)
+- [Abrir el índice de accesibilidad y tecnología humana](accesibilidad-tecnologia-humana/README.md)
 
 Esta categoría incluye carreras como:
 
@@ -27,9 +27,9 @@ Esta categoría incluye carreras como:
 - Ingeniería de accesibilidad
 - Investigación de experiencia de usuario inclusiva
 
-### Ciberseguridad
+### Ciberseguridad — 14 guías
 
-- [Abrir la carpeta de ciberseguridad](ciberseguridad/)
+- [Abrir el índice de ciberseguridad](ciberseguridad/README.md)
 
 Esta categoría incluye carreras como:
 
@@ -42,9 +42,9 @@ Esta categoría incluye carreras como:
 - Especialista forense digital y respuesta a incidentes
 - Ingeniería de detección de amenazas
 
-### Datos, nube y software
+### Datos, nube y software — 11 guías
 
-- [Abrir la carpeta de datos, nube y software](datos-nube-software/)
+- [Abrir el índice de datos, nube y software](datos-nube-software/README.md)
 
 Esta categoría incluye carreras relacionadas con:
 
@@ -55,9 +55,9 @@ Esta categoría incluye carreras relacionadas con:
 - DevOps y automatización
 - Plataformas e infraestructura tecnológica
 
-### Inteligencia artificial
+### Inteligencia artificial — 13 guías
 
-- [Abrir la carpeta de inteligencia artificial](inteligencia-artificial/)
+- [Abrir el índice de inteligencia artificial](inteligencia-artificial/README.md)
 
 Esta categoría incluye carreras como:
 
@@ -75,9 +75,9 @@ Esta categoría incluye carreras como:
 - Ingeniero de seguridad de IA
 - Ingeniero de visión por computadora
 
-### Robótica y tecnologías emergentes
+### Robótica y tecnologías emergentes — 8 guías
 
-- [Abrir la carpeta de robótica y tecnologías emergentes](robotica-tecnologias-emergentes/)
+- [Abrir el índice de robótica y tecnologías emergentes](robotica-tecnologias-emergentes/README.md)
 
 Esta categoría incluye carreras como:
 
@@ -147,3 +147,5 @@ Cambiar de dirección no significa fracasar.
 ## Licencia
 
 Este contenido está disponible bajo la licencia **Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional**, conocida como **CC BY-NC-SA 4.0**.
+
+[Volver a la página principal](../README.md)

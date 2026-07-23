@@ -56,7 +56,7 @@ Las herramientas cambian. Aprenda los conceptos que existen detrás de ellas y v
 
 ## Recursos gratuitos para comenzar
 
-- [Microsoft Learn: inteligencia artificial](https://learn.microsoft.com/training/ai/) — contenido gratuito; revise las condiciones vigentes.
+- [Microsoft Learn: inteligencia artificial](https://learn.microsoft.com/training/browse/?terms=artificial%20intelligence) — contenido gratuito; revise las condiciones vigentes.
 - [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) — contenido gratuito; revise las condiciones vigentes.
 - [Curso de Hugging Face](https://huggingface.co/learn) — contenido gratuito; revise las condiciones vigentes.
 - [fast.ai](https://course.fast.ai/) — contenido gratuito; revise las condiciones vigentes.
